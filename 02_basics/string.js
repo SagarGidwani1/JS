@@ -26,4 +26,4 @@ console.log(url.replace('%20', '-'))
 
 console.log(url.includes('hitesh')) // it check the thing is present or not
 
-console.log(gameName.split('-'));
+console.log(gameName.split('-'));  // output - [ 'hitesh', 'hc', 'com' ]
